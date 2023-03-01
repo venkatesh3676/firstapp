@@ -1,0 +1,19 @@
+.Footer{
+    bottom: 10;
+    position:absolute;
+    width: 100%;
+    background-color: black;
+    color: yellow;
+    padding:15px;
+    text-align: center;
+    
+    }
+    .Footer:hover{
+    background-color: lightpink;
+    
+    }
+    html,body{
+    overflow-x:hidden;
+    
+    }
+   

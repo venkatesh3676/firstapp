@@ -1,0 +1,15 @@
+<EmailIcon/>
+<TextField  placeholder="email"  variant="filled" /><br/>
+</span>
+<span>
+<PhoneAndroidIcon/>
+<TextField  placeholder="phonenumber"  variant="filled" /><br/>
+</span>
+<span>
+<PasswordIcon/>
+<TextField   type="password" placeholder="password"  variant="filled" /><br/>
+</span>
+<span>
+<PasswordIcon/>
+<TextField  type="password" placeholder="Cpassword"  variant="filled" /><br/>
+</span>
