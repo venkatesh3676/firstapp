@@ -99,8 +99,8 @@ export default function PrimarySearchAppBar() {
       open={isMenuOpen}
       onClose={handleMenuClose}
     >
-          <Link to='/yourcontact'><MenuItem onClick={handleMenuClose}>Profile</MenuItem></Link>
-      <Link to='/signup'> <MenuItem onClick={handleMenuClose}>My account</MenuItem></Link>
+      <Link to='/proflie'><MenuItem onClick={handleMenuClose}>Profile</MenuItem></Link>
+     <Link to='/signup'> <MenuItem onClick={handleMenuClose}>My account</MenuItem></Link>
     </Menu>
   );
 
@@ -149,7 +149,8 @@ export default function PrimarySearchAppBar() {
           aria-haspopup="true"
           color="inherit"
         >
-          <AccountCircle />
+         <AccountCircle/>
+
         </IconButton>
         <p>Profile</p>
       </MenuItem>

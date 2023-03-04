@@ -1,16 +1,5 @@
 {
-  "users": [
-    {
-      "name": "venkatesh",
-      "email": "venkateshbolisetti5@gmail.com",
-      "number": "9390763676"
-    }
-  ],
-  "users": [
-    {
-      "name": "venkatesh",
-      "email": "venkateshbolisetti5@gmail.com",
-      "number": "9390763676"
-    }
-  ]  
+  "users":[{"name":"naveen","email":"naveenkaila192@gmail.com","mobilenumber":"8309277446"},{"name":"naveen","email":"naveenkaila192@gmail.com","mobilenumber":"8309277446"}]
+
+  
 }
